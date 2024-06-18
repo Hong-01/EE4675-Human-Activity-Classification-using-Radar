@@ -12,7 +12,7 @@ This project is organized into three main folders: `Code`, `Documentation`, and 
         1. [Data Processing]
         2. [Neural Network]
     2. [Documentation]
-    3. [Processed Data]
+
 
 ## Code 
 
@@ -53,7 +53,4 @@ This project is organized into three main folders: `Code`, `Documentation`, and 
     - **Report.pdf**: Overview for this project.
     - **Presentation radar classification.pdf**: Presentation Slides
 
-## Processed Data
 
-    The `Processed Data` folder includes the processed data files, ready for use in the neural network training and evaluation steps.
-    - **image_data_cfar.zip**: This zip file contains the image data resulting from the CFAR detection process. It is formatted and ready for input into the neural network models provided in the `Neural Network` section.
